@@ -1,0 +1,37 @@
+.signup-form {
+  margin: 200px;
+  margin-left: 450px;
+  width: 450px;
+  height: 450px;
+  border: black;
+  border-style: solid;
+  border-width: 2px;
+}
+.signin-form {
+  margin: 200px;
+  margin-left: 450px;
+  width: 450px;
+  height: 450px;
+  border: black;
+  border-style: solid;
+  border-width: 2px;
+}
+.title {
+  margin-left: 170px;
+}
+input[type="text"], input[type="password"],input[type="email"]{
+  font: 15px/24px "Muli", sans-serif;
+  color: #333;
+  width: 70%;
+  box-sizing: content-box;
+  letter-spacing: 1px;
+  margin-left: 70px;
+  margin-top: 20px;
+}
+.button {
+  width:50%;
+  box-sizing: border-box;
+  color: #333;
+  font: 15px/24px "Muli", sans-serif;
+  margin: 30px;
+}
